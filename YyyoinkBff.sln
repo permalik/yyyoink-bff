@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YyyoinkBff.Contracts", "YyyoinkBff.Contracts\YyyoinkBff.Contracts.csproj", "{8EE45E59-A179-419B-BAFB-1EA5BDF9B8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YyyoinkBff", "YyyoinkBff\YyyoinkBff.csproj", "{D92AC652-C737-43C6-9F5D-7C48896F3495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE45E59-A179-419B-BAFB-1EA5BDF9B8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE45E59-A179-419B-BAFB-1EA5BDF9B8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE45E59-A179-419B-BAFB-1EA5BDF9B8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE45E59-A179-419B-BAFB-1EA5BDF9B8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92AC652-C737-43C6-9F5D-7C48896F3495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92AC652-C737-43C6-9F5D-7C48896F3495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92AC652-C737-43C6-9F5D-7C48896F3495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92AC652-C737-43C6-9F5D-7C48896F3495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
