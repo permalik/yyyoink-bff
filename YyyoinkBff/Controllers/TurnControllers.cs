@@ -12,7 +12,7 @@ public class TurnControllers: ControllerBase
         return Ok(request);
     }
     
-    [HttpPost("/turn/{id:guid}")]
+    [HttpGet("/turn/{id:guid}")]
     public IActionResult GetTurn(Guid id)
     {
         return Ok(id);

@@ -1,6 +1,7 @@
 @YyyoinkBff_HostAddress = http://localhost:5166
 
-GET {{YyyoinkBff_HostAddress}}/weatherforecast/
+POST {{YyyoinkBff_HostAddress}}/turn
 Accept: application/json
+Content-Type: application/json
 
-###
+{"body": "test"}
